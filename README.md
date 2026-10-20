@@ -1,0 +1,3 @@
+# Studi Kasus: Pemodelan Simulasi Evakuasi Bencana / Pemantauan Lingkungan Berbasis HPC (High-Performance Computing)
+Dalam materinya, Dr. Warawan menekankan pentingnya bridging global infrastructure to address local challenges, khususnya dalam simulasi data skala besar untuk mitigasi bencana (seperti simulasi evakuasi kota, prediksi kualitas udara/PM2.5, dan navigasi ramah lingkungan/EV).
+Untuk studi kasus ini, Saya membuat modul Simulasi Komputasi Paralel Evakuasi Bencana (Disaster Evacuation Simulation) menggunakan Python dengan pustaka multiprocessing dan numpy. Kode ini mensimulasikan pemrosesan beban kerja HPC-like secara paralel untuk menghitung rute evakuasi tercepat bagi ribuan kendaraan/warga secara simultan.
